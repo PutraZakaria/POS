@@ -3,15 +3,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Home</title>
+    <title>Product</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css">
 </head>
 <body>
-    <h1 class="text-center">INI HALAMAN HOME</h1>
+    <h1 class="text-center">INI HALAMAN PRODUCT/beauty-center</h1>
     <ul>
-        <li><a href="http://localhost/POS/public/category">Product</a></li>
-        <li><a href="http://localhost/POS/public/user/22/nama/Putra">User</a></li>
-        <li><a href="http://localhost/POS/public/transaction">Penjualan</a></li>
+        <li>Face Wash</li>
+        <li>Skin Care</li>
+        <li>Make Up</li>
+        <li>Pedicure</li>
+        <a href="http://localhost/POS/public/category">Kembali</a>
     </ul>
 </body>
 </html>
